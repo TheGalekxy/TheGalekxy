@@ -1,8 +1,10 @@
-### Hi there 👋
+# Adam Galek
 
 ## 💬 About Me
 
-I'm Adam! I'm a full-stack software engineer. 
+I'm Adam! I'm a full-stack software engineer currently working for [Xello](xello.world) 
+
+[View My Resume](https://github.com/TheGalekxy/resume/blob/main/AdamResume.pdf)
 
 ## 📫 How to reach me:
 Follow my socials! :)
