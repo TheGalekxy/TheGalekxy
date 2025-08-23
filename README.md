@@ -4,7 +4,7 @@
 
 I'm Adam! I'm a full-stack software engineer currently working for [Xello](xello.world).
 
-[View My Resume](https://github.com/TheGalekxy/resume/blob/main/General/AdamGalekResume082025.pdf)
+[View My Resume](https://github.com/TheGalekxy/resume/blob/main/General/AdamGalekResume082025.png)
 
 
 ## 📫 How to reach me:
