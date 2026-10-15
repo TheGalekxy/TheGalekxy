@@ -2,7 +2,11 @@
 
 ## 💬 About Me
 
-I'm Adam! I'm a full-stack software engineer currently working for [Xello](xello.world).
+I'm Adam! I'm a full-stack software engineer & entrepreneur.
+
+## 🔭 I’m currently working on
+- [Take the Body](takethebody.com)
+- [Matthew Smith for Orangeville City Councillor](https://matthewsmithorangeville.ca/)
 
 [View My Resume](https://github.com/TheGalekxy/resume/blob/main/General/AdamGalekResume082025.png)
 
