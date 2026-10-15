@@ -5,14 +5,13 @@
 I'm Adam! I'm a full-stack software engineer & entrepreneur.
 
 ## 🔭 I’m currently working on
-- [Take the Body](takethebody.com)
+- [Take the Body](https://www.takethebody.com)
 - [Matthew Smith for Orangeville City Councillor](https://matthewsmithorangeville.ca/)
 
-[View My Resume](https://github.com/TheGalekxy/resume/blob/main/General/AdamGalekResume082025.png)
-
-
 ## 📫 How to reach me:
-Follow my socials! :)
+Feel free to [view my resume](https://github.com/TheGalekxy/resume/blob/main/General/AdamGalekResume082025.png) or check out my [personal website](https://adamgalek.ca/)
+
+or follow my socials! :)
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40em" align="center" alt="Follow TheGalekxy on LinkedIn" title="Follow TheGalekxy on LinkedIn"/>](https://www.linkedin.com/in/adamgalek/)
 [<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="40em" align="center" alt="Follow TheGalekxy on Twitter" title="Follow TheGalekxy on Twitter"/>](https://twitter.com/GalekxyMedia)
