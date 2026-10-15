@@ -9,7 +9,7 @@ I'm Adam! I'm a full-stack software engineer & entrepreneur.
 - [Matthew Smith for Orangeville City Councillor](https://matthewsmithorangeville.ca/)
 
 ## 📫 How to reach me:
-Feel free to [view my resume](https://github.com/TheGalekxy/resume/blob/main/General/AdamGalekResume082025.png) or check out my [personal website](https://adamgalek.ca/)
+Feel free to [view my resume](https://github.com/TheGalekxy/resume/blob/3c5aee79b07f3145b6b3135d2511a8f7973861c0/General/AdamGalekResume.pdf) or check out my [personal website](https://adamgalek.ca/)
 
 or follow my socials! :)
 
